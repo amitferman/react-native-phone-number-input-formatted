@@ -1,7 +1,7 @@
 {
-  "name": "react-native-phone-number-input",
+  "name": "react-native-phone-number-input-formatted",
   "version": "2.1.0",
-  "description": "Phone Number Input Component",
+  "description": "Phone Number Input Component with Formatting",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "scripts": {
@@ -9,9 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/garganurag893/react-native-phone-number-input.git"
+    "url": "git+https://github.com/amitferman/react-native-phone-number-input-formatted.git"
   },
   "author": "anuraggarg",
+  "contributors": ["amitferman"],
   "license": "MIT",
   "peerDependencies": {
     "react": "*",
@@ -23,6 +24,7 @@
     "telephone",
     "phone input",
     "input",
+    "formatting",
     "tel",
     "input text",
     "international",
