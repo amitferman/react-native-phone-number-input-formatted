@@ -1,4 +1,3 @@
-
 # React Native Phone Number Input with Formatting
 
 Performance oriented React Native Phone Number Input with typings and proper validation for any country. Forked from [react-native-phone-number-input](https://github.com/garganurag893/react-native-phone-number-input).
