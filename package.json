@@ -12,7 +12,9 @@
     "url": "git+https://github.com/amitferman/react-native-phone-number-input-formatted.git"
   },
   "author": "anuraggarg",
-  "contributors": ["amitferman"],
+  "contributors": [
+    "amitferman"
+  ],
   "license": "MIT",
   "peerDependencies": {
     "react": "*",
