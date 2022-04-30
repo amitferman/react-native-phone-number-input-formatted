@@ -4,4 +4,6 @@ Performance oriented React Native Phone Number Input with typings and proper val
 
 Now with automatic as-you-type formatting! Centering is also improved compared to original version. Tested only with the "first" layout.
 
+Phone numbers are auto-formatted to "(XXX) XXX-XXXX".
+
 Thank you @[garganurag893](https://github.com/garganurag893) for the original repo [react-native-phone-number-input](https://github.com/garganurag893/react-native-phone-number-input).
