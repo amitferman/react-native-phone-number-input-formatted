@@ -6,4 +6,6 @@ Now with automatic as-you-type formatting! Centering is also improved compared t
 
 Phone numbers are auto-formatted to "(XXX) XXX-XXXX".
 
+Keyboard auto-focuses on both Android and iOS correctly.
+
 Thank you @[garganurag893](https://github.com/garganurag893) for the original repo [react-native-phone-number-input](https://github.com/garganurag893/react-native-phone-number-input).
